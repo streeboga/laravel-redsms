@@ -40,6 +40,6 @@
     },
     "require-dev": {
     },
-    "minimum-stability": "stability",
+    "minimum-stability": "dev",
     "prefer-stable": true
 }
